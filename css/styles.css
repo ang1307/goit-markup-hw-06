@@ -537,7 +537,7 @@ border-bottom: 1px solid #e7e9fc;
     gap: 24px;
 }
 
-.menu-address-item {}
+
 
 .menu-address-link {
     font-weight: 500;
@@ -728,8 +728,6 @@ border-bottom: 1px solid #e7e9fc;
 
 }
 
-.feauter-container {
-}
 
 .visually-hidden {
     position: absolute;
@@ -795,8 +793,6 @@ font-family: var(--font-family);
 }
 
 @media screen and (min-width: 768px) {
-    .container {
-    }
 
     .feauter-list{
         flex-direction: row;
@@ -827,10 +823,7 @@ font-family: var(--font-family);
         padding: 120px 0;
 
     }
-         .container {
  
-         }
-
 
     .visually-hidden {
         position: absolute;
